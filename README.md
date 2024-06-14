@@ -1,3 +1,3 @@
-open source wins!! always
-i just feel really happy to share open source software with the world
-and im also happily a furry, i think both things go hand in hand. and i like that!!
+my views:
+- open source is nice. you should use it more often
+- proprietary software is ok too. but. open source should be used more often!!
