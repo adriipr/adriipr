@@ -8,3 +8,11 @@ contact for work: (i'm always available for jobs relating to either user interfa
 - email: adrrdgz9@gmail.com
 - matrix: adrrdgz:catgirl.cloud
 - mastodon: adrrdgz@neovibe.app
+
+programming experience and skills:
+- python
+- golang
+- front-end graphic design/user interface in html. javascript. and css
+- linux terminal including terminal text editor "nano". "vim"
+- basic windows and macos knowledge
+- graphical code and text editors such as visual studio code. notepad++. and mousepad
