@@ -13,7 +13,7 @@ programming experience and skills:
 - python
 - golang
 - front-end graphic design/user interface in html. javascript. and css
-- linux terminal including terminal text editor "nano". "vim"
+- debian-based distros linux terminal. including terminal text editor "nano". "vim"
 - basic windows and macos knowledge
 - graphical code and text editors such as visual studio code. notepad++. pycharm (community edition) and mousepad
 
