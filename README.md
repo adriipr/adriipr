@@ -16,3 +16,7 @@ programming experience and skills:
 - linux terminal including terminal text editor "nano". "vim"
 - basic windows and macos knowledge
 - graphical code and text editors such as visual studio code. notepad++. and mousepad
+
+languages:
+- english
+- spanish
