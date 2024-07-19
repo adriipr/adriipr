@@ -7,7 +7,8 @@ i like coding stuff for fun and making it open. i am also interested in graphica
 contact for work: (i'm always available for jobs relating to either user interface or programming needs)
 - email: adrrdgz9@gmail.com
 - matrix: adrrdgz:catgirl.cloud. @adrrdgz1:arcticfoxes.net
-- mastodon: adrrdgz@neovibe.app. addrdgz@workinprogr.ess
+- mastodon: adrrdgz@neovibe.app
+- mastodon 2nd account: adrrdgz@woof.tech
 
 programming experience and skills:
 - python
