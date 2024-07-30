@@ -3,7 +3,6 @@ i like coding stuff for fun and making it open. i am also interested in graphica
 contact for work: (i'm always available for jobs relating to either user interface or programming needs)
 - email: adriihewoo@gmail.com
 - matrix: adriipr on "catgirl.cloud". "arcticfoxes.net"
-- mastodon: adriipr on "woof.tech". "neovibe.app"
 
 programming experience and skills:
 - python
